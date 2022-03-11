@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-Language-Translate-App/static/css/main.dffe50ea.css",
-    "main.js": "/React-Language-Translate-App/static/js/main.28206a94.js",
+    "main.js": "/React-Language-Translate-App/static/js/main.c1e65f8c.js",
     "index.html": "/React-Language-Translate-App/index.html",
     "main.dffe50ea.css.map": "/React-Language-Translate-App/static/css/main.dffe50ea.css.map",
-    "main.28206a94.js.map": "/React-Language-Translate-App/static/js/main.28206a94.js.map"
+    "main.c1e65f8c.js.map": "/React-Language-Translate-App/static/js/main.c1e65f8c.js.map"
   },
   "entrypoints": [
     "static/css/main.dffe50ea.css",
-    "static/js/main.28206a94.js"
+    "static/js/main.c1e65f8c.js"
   ]
 }
